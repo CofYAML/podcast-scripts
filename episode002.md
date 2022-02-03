@@ -1,5 +1,4 @@
 | **Host**       | James Bohrman |
-|------------|---------------|
 | **Guest**      | Cole Kennedy  |
 | **Episode #**  | 2             |
 | **Title Card** | TBD           |
