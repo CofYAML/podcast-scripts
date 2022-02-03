@@ -6,7 +6,7 @@
 
 For this episode, I’d like to introduce you to PJ Hagerty, Senior Developer Advocate at Mattermost. PJ, tell us a little about yourself and what you do:
 
-**[INSERT JORN SELF INTRO]**
+**[INSERT PJ SELF INTRO]**
 
 
 * What do you think are some of the biggest cargo-cults in tech are?
