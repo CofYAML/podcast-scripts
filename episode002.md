@@ -1,8 +1,6 @@
-| Host       | James Bohrman |
-|------------|---------------|
-| Guest      | Cole Kennedy  |
-| Episode #  | 2             |
-| Title Card | TBD           |
+| Host          | Guest        | Episode # | Title Card |
+|---------------|--------------|-----------|------------|
+| James Bohrman | Cole Kennedy | 2         | TBD        |
 
 **INTRO**: Welcome to Cult of YAML - a podcast brought to you by Cloudspeakers. I’m James, your host with the most.
 
