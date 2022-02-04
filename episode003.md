@@ -1,6 +1,6 @@
-| Host          |   Guest       | Episode # | Title Card                                             |
-|---------------|---------------|-----------|--------------------------------------------------------|
-| James Bohrman | Jorn Knutilla |  3        | Can Kubernes cause gaps in Security Operations?        |
+| Host          |   Guest       | Episode # | Title Card                                               |
+|---------------|---------------|-----------|----------------------------------------------------------|
+| James Bohrman | Jorn Knutilla |  3        | Can Kubernetes cause gaps in Security Operations?        |
 
 **INTRO**: Welcome to Cult of YAML - a podcast brought to you by Cloudspeakers. I’m James and I'll be your host for this podcast.
 
